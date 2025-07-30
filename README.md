@@ -8,12 +8,13 @@
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yash-kashyap-2038b6241/**
+- 📫 How to reach me **https://yash-portfolio-tan.vercel.app/**
 
 - ⚡ Fun fact **I think I am Funny and Looking Like a Clown 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p><img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952spe7y1erdr4fdidzm8txcmv46fpba2hoiwdgm3m7&ep=v1_gifs_search&rid=200w.gif&ct=g" alt=""></p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-kashyap-2038b6241/" target="blank"><a href="https://yash-portfolio-tan.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-kashyap-2038b6241/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-kashyap-2038b6241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-kashyap-2038b6241/" height="30" width="40" /></a>
 <a href="https://instagram.com/gyashkashyap123456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gyashkashyap123456" height="30" width="40" /></a>
 </p>
 <p align="left">
