@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Kashyap</h1>
-<h3 align="justify"> Motivated and technically proficient .NET developer with a diploma in computer science, specializing in .NET technologies. Eager to apply foundational knowledge of C#, ASP.NET, and SQL in real-world applications. Skilled in object-oriented programming and problem-solving, with hands-on experience in building small-scale web and desktop applications. Seeking opportunities to grow in a dynamic development environment, contributing to innovative projects while gaining advanced expertise in .NET frameworks and modern software practices.</h3>
+<h3 align="justify"> I’m a passionate full-stack developer with experience in building scalable web applications using React, Next.js, TypeScript, Node.js, and .NET. With a strong foundation in both front-end and back-end technologies, I enjoy crafting seamless user experiences and writing clean, efficient code. I also have solid expertise in MySQL, enabling me to design and manage robust databases. I’m always eager to learn, adapt to new challenges, and contribute to impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkashyap12&label=Profile%20views&color=0e75b6&style=flat" alt="yashkashyap12" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p><img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952spe7y1erdr4fdidzm8txcmv46fpba2hoiwdgm3m7&ep=v1_gifs_search&rid=200w.gif&ct=g" alt=""></p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-kashyap-2038b6241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-kashyap-2038b6241/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-kashyap-2038b6241/" target="blank"><a href="https://yash-portfolio-tan.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-kashyap-2038b6241/" height="30" width="40" /></a>
 <a href="https://instagram.com/gyashkashyap123456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gyashkashyap123456" height="30" width="40" /></a>
 </p>
 <p align="left">
